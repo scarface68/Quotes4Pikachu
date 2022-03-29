@@ -99,7 +99,7 @@ i {
       text-align: center;
       font-size: 1.2em;
       margin-right: 5px;
-      height: 30px;
+      height: fit-content;
       width: 40px;
     }
     #new-quote {
